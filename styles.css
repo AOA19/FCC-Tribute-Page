@@ -1,0 +1,104 @@
+/* Laptop: 1440px
+Desktop: 1920px 
+Colors: #CAEEF7, #65B1C2, #607175, #3D6B75, 
+#D57934, #bba79c, #F9E4DF, #A86D5F, #F8F0F0, #54433A
+*/
+
+#main {
+  background-color: #bba79c;
+}
+/* The following below will style the title section on the page */
+#title {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  padding-top: 30px;
+  margin-top: 65px;
+  margin-bottom: 15px;
+}
+
+.title-container {
+  padding-bottom: 12px;
+}
+
+h4 {
+  text-align: center;
+  font-family: "Buenard", serif;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+/* The following below will style the tribute image section on the page */
+
+#img-div {
+  text-align: center;
+  background-color: white;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: bold;
+  padding: 15px 0;
+  color: #54433a;
+}
+
+/* The following will style the tribute information section on the page */
+
+h3 {
+  
+  text-align: center;
+  font-family: "Buenard", serif;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+ul {
+  max-width: 590px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li {
+  margin: 15px 0;
+  font-family: "Proza Libre", sans-serif;
+  font-size: 18px;
+}
+strong {
+  color: #54433a;
+}
+
+/* This following will style the remaning info on the main page */
+
+blockquote {
+  max-width: 545px;
+  text-align: left;
+  font-style: italic;
+  font-family: "Proza Libre", sans-serif;
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+.more-info {
+  text-align: center;
+  padding: 50px 0;
+  font-family: "Proza Libre", sans-serif;
+  font-size: 20px;
+}
+
+#tribute-link {
+  text-decoration: none;
+  color: #54433a;
+}
+
+#tribute-link:hover {
+  color: #f9e4df;
+}
